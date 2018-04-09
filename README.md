@@ -1,4 +1,4 @@
-# generator-jhipster-entity-point-field [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-jhipster-entity-point-field
 > JHipster module to allow to create postgis point fields on JHipster Entities
 ## Usage
 
