@@ -1,6 +1,6 @@
 {
   "name": "generator-jhipster-entity-point-field",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows to add postgis point fields to jhipster entity models",
   "files": [
     "generators"
