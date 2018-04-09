@@ -12,8 +12,10 @@ jhipster-entity-point-field module will register itself as a hook for Jhipster f
 
 ### [BETA] Module
 > **BETA Notice** The module is still in beta state. Expect some rough edges!
+
 > At the moment, the generator only generates the server side configuration, you need to add the client part in your dialog template as <input type="text" [(ngModel)]="form.fieldName" /> and in your entity.model.ts as "public fieldName?: string;". This field save a wkt point, example POINT(20 -90).
-I'm working in the client side part.
+
+> I'm working in the client side part.
 
 ### Installation and Requirements
 
