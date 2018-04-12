@@ -70,7 +70,7 @@ module.exports = JhipsterGenerator.extend({
     },
     registering() {
         try {
-          this.registerModule('generator-jhipster-entity-postgis-point', 'entity', 'post', 'entity', 'Add support for entity audit and audit log page');
+          this.registerModule('generator-jhipster-entity-point-field', 'entity', 'post', 'entity', 'Add support for entity audit and audit log page');
         } catch (err) {
           this.log(`${chalk.red.bold('WARN!')} Could not register as a jhipster post entity creation hook...\n`);
         }
